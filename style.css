@@ -2,3 +2,8 @@
   font-weight: 100;
   font-style: italic;
 }
+
+.small-name {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+}
